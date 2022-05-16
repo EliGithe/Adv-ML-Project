@@ -36,7 +36,7 @@ truth in the way that they do in other NNs. Refer to the bar graph of these resu
 
 
 
-A description of the repository and code structure
+A description of the repository and code structure:
 
 
 readME
