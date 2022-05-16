@@ -42,12 +42,12 @@ A description of the repository and code structure
 readME
 
 
-Powerpoint Folder- 
+Powerpoint Folder:
 
 Stores the Adv ML Project - Presentation slides
 
 
-Code Folder-
+Code Folder:
 
 Stores the original CNN ipynb file (OriginalCNN ipynb file) of the original CNN implementation pre optimization measures
 
@@ -56,11 +56,13 @@ Stores the CNN (EditedCNN ipynb file) of the implementation post optimization
 Stores the (EditedResnet ipynb) Resnet18 implementation
 
 
-PDF Folder
+PDF Folder:
+
 Contains all of the code files in PDF format 
 
 
 How To Run the Code: 
 Git clone the repository and open the ipynb files (no py files). We also include the PDF forms for easier reference. Please let us know in case of any issues.
 
-Also, note that Resnet18 ipynb will take approximately ~9 hours to complete. The CNN implementations take approximately ~15 minutes to run, depending on your RAM storage and GPU availability. For this project, we used high RAM (30+ GB) and Google Colab Plus+. If these resources are not available for you, the sessions will crash. 
+
+Also, note that Resnet18 ipynb will take approximately ~9 hours to complete. The CNN implementations take approximately ~15 minutes to run, depending on your RAM storage and GPU availability. For this project, we used high RAM (30+ GB) and Google Colab Plus+. Without access to these resources, the sessions will crash as certain runs took up to 36 GB. 
