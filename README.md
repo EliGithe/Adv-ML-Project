@@ -37,15 +37,28 @@ truth in the way that they do in other NNs. Refer to the bar graph of these resu
 
 
 A description of the repository and code structure
+
+
 readME
-Powerpoint Folder 
+
+
+Powerpoint Folder- 
+
 Stores the Adv ML Project - Presentation slides
-Code Folder
+
+
+Code Folder-
+
 Stores the original CNN ipynb file (OriginalCNN ipynb file) of the original CNN implementation pre optimization measures
+
 Stores the CNN (EditedCNN ipynb file) of the implementation post optimization 
+
 Stores the (EditedResnet ipynb) Resnet18 implementation
+
+
 PDF Folder
 Contains all of the code files in PDF format 
+
 
 How To Run the Code: 
 Git clone the repository and open the ipynb files (no py files). We also include the PDF forms for easier reference. Please let us know in case of any issues.
